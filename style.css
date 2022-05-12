@@ -1,0 +1,32 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+
+.w3{
+background-color: wheat;
+ border: 1px solid;
+width: 220px;
+text-align: center;
+position: relative;
+left: 1370px;
+bottom: 100px;
+}
+.body  {
+
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+width: 800px;
+position: relative;
+left: 300px;
+bottom: 390px;
+
+}
+.textt{
+font-size: 20px;
+width: 220px;
+padding: 20px;
+}
